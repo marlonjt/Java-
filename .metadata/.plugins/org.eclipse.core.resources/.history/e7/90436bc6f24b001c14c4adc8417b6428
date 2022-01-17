@@ -1,0 +1,15 @@
+
+public class Rectangulo {
+	private int base;
+	private int altura;
+	
+	public int calacularPerimetro() {
+		int p = (2*base)+(2*altura);
+		return p;
+	}
+	public int calcularArea() {
+		int a = base * altura;
+		return a;
+	}
+
+}

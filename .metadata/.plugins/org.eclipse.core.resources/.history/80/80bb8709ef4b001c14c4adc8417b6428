@@ -1,0 +1,23 @@
+
+public class TestPersona {
+
+	public static void main(String[] args) {
+		Persona p;
+		p = new Persona();
+		
+		p.setNombre("Pedro");
+		p.setEdad(12);
+		p.setEstatura(1.60);
+		
+		System.out.println("el nombre es: "+p.getNombre());
+		System.out.println("el nombre es: "+p.getEdad());
+		System.out.println("el nombre es: "+p.getEstatura());
+		
+		p2 = new Persona();
+		p2.setNombre("Pedro");
+		p2.setEdad(12);
+		p2.setEstatura(1.60);
+
+	}
+
+}

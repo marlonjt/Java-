@@ -1,0 +1,13 @@
+package clearminds.cuentas.tets;
+
+import clearminds.cuentas.Cuentas;
+
+public class TestCuenta {
+
+	public static void main(String[] args) {
+		Cuentas c = new Cuentas("0001", "A");
+		c.imprimir();
+
+	}
+
+}

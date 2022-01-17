@@ -1,0 +1,9 @@
+package com.cmc.flujo.test;
+
+public class Validador {
+	public void validarEdadint (int edad) {
+		if (edad>18) {
+			System.out.println("es mayor de edad");
+		}
+	}
+}

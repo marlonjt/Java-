@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.cmc.flujo.test.Validador"/>
+    <fullyQualifiedTypeName name="com.cmc.flujo.test.Auto"/>
+    <fullyQualifiedTypeName name="clearminds.cuentas.Cuentas"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Validar"/>
+    <fullyQualifiedTypeName name="com.cmc.admin.AdminProducto"/>
+    <fullyQualifiedTypeName name="com.cmc.entidades.Producto"/>
+    <fullyQualifiedTypeName name="com.cmc.entidades.Estudiante"/>
+    <fullyQualifiedTypeName name="com.cmc.entidades.Direccion"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Estudiante"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.AdminTelefono"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.cmc.entidades.Persona"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.cmc.arreglos.AdminContactos"/>
+    <fullyQualifiedTypeName name="com.cmc.entidades.Contacto"/>
+</qualifiedTypeNameHistroy>

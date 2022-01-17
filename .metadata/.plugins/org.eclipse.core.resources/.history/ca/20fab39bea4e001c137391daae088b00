@@ -1,0 +1,8 @@
+package com.cmc.repaso.entidades.test;
+
+import com.cmc.repaso.entidades.Estudiante;
+
+public class TestEstudiante {
+	Estudiante estu = new Estudiante("Juan");
+	estu.notaCalificar(6);
+}

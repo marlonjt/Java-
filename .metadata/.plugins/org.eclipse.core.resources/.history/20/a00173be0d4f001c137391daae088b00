@@ -1,0 +1,12 @@
+package com.cmc.herencia;
+
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
+public class TestPersona {
+
+	public static void main(String[] args) {
+		Persona p = new Persona("Juan", "Lopez");
+		System.out.println(p);
+	}
+
+}

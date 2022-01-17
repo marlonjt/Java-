@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/Users/joel/Documents/java/.metadata/.plugins/org.eclipse.jdt.core
+4023313783.index
+2157688024.index
+1865797976.index
+58610303.index
+2126479034.index
+1329107133.index
+2647207073.index
+394956995.index
+3984685824.index
+1507449018.index
+4129196260.index
+2636330653.index

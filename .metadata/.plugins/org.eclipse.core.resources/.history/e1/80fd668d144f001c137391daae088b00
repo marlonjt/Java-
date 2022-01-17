@@ -1,0 +1,8 @@
+package com.cmc.test;
+
+import com.cmc.arreglos.AdminContactos;
+
+public class TestAdmin {
+	AdminContactos admin = new AdminContactos();
+	
+}

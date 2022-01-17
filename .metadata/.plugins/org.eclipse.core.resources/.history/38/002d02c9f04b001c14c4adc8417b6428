@@ -1,0 +1,36 @@
+
+public class TestAuto {
+
+	public static void main(String[] args) {
+		Auto a1;
+		a1 = new Auto();
+		System.out.println("auto:"+ a1.getMarca());
+		System.out.println("auto:"+ a1.getPrecio());
+		System.out.println("auto:"+ a1.getAnio());
+		
+		System.out.println("++++++++ Auto numero uno +++++++++");
+		
+		a1.getMarca("Nisan");
+		a1.getPrecio(20000);
+		a1.anio = 2018;
+		
+		System.out.println("Marca:"+ a1.marca);
+		System.out.println("Precio:"+ a1.precio);
+		System.out.println("Año:"+ a1.anio);
+		
+		System.out.println("++++++++ Auto numero dos +++++++++");
+		Auto a2;
+		a2 = new Auto();
+		
+		a2.marca = "Audi";
+		a2.precio = 500000;
+		a2.anio = 2021;
+		
+		System.out.println("Marca:"+ a2.marca);
+		System.out.println("Precio:"+ a2.precio);
+		System.out.println("Año:"+ a2.anio);
+		
+
+	}
+
+}

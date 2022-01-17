@@ -1,0 +1,14 @@
+package com.cmc.repaso.entidades.test;
+
+import com.cmc.repaso.entidades.Estudiante;
+
+public class TestEstudiante {
+
+	public static void main(String[] args) {
+		Estudiante est = new Estudiante("juan");
+		est.notaCalificar();
+		System.out.println(est);
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.cmc.directorio.entidades;
+
+public class AdminTelefono {
+	
+	public boolean activarMensajeria(Telefono whatsapp){
+		if(whatsapp == true) {
+			return false;
+		}else {
+			return false;
+		}
+	}
+
+}

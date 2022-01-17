@@ -1,0 +1,36 @@
+package com.cmc.entidades;
+
+public class Direccion {
+	private String callePrincipal;
+	private String calleSecundaria;
+	private String numero;
+	public String getCallePrincipal() {
+		if(calleSecundaria == null) {
+			return "no hay calle principal";
+		}else {
+			return callePrincipal;		}
+		
+	}
+	public void setCallePrincipal(String callePrincipal) {
+		this.callePrincipal = callePrincipal;
+	}
+	public String getCalleSecundaria() {
+		if(calleSecundaria == null) {
+			return "no hay calle secundaria";
+		}else {
+			return calleSecundaria;
+		}
+		
+	}
+	public void setCalleSecundaria(String calleSecundaria) {
+		this.calleSecundaria = calleSecundaria;
+	}
+	public String getNumero() {
+		return numero;
+	}
+	public void setNumero(String numero) {
+		this.numero = numero;
+	}
+	
+	
+}

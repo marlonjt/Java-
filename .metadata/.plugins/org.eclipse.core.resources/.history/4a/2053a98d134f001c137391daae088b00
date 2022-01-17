@@ -1,0 +1,13 @@
+package com.cmc.arreglos;
+
+import com.cmc.entidades.Contacto;
+
+public class AdminContactos {
+
+	private Contacto[] contactos;
+	public AdminContactos() {
+		contactos new Contacto[10];
+	}
+	
+	public
+}

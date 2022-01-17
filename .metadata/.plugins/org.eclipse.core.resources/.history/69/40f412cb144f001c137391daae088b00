@@ -1,0 +1,14 @@
+package com.cmc.test;
+
+import com.cmc.arreglos.AdminContactos;
+import com.cmc.entidades.Contacto;
+
+public class TestAdmin {
+
+	public static void main(String[] args) {
+		AdminContactos admin;
+		admin.agregar(new Contacto("222","Sofia"));
+
+	}
+
+}

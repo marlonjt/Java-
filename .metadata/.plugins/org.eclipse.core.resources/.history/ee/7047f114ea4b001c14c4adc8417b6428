@@ -1,0 +1,19 @@
+
+public class TestRectangulo {
+
+	public static void main(String[] args) {
+		Rectangulo r = new Rectangulo();
+		r.base = 30;
+		r.altura = 2;
+		int perimetro = r.calacularPerimetro();
+		System.out.println("el perimetro es: " +  perimetro);
+		
+		Rectangulo r2 = new Rectangulo();
+		r2.altura=  20;
+		r2.base= 3;
+		int perimetro2 = r.calacularPerimetro();
+		System.out.println("el perimetro2 es: "+perimetro2);
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class TestCalculadora {
+
+	public static void main(String[] args) {
+		Calculadora c = new Calculadora();
+		int resultado = c.sumar(7, 7);
+		System.out.println("el resultado es: " + resultado);
+
+	}
+
+}

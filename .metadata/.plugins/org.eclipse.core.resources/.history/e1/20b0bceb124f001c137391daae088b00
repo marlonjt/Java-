@@ -1,0 +1,12 @@
+package com.cmc.test;
+
+import com.cmc.entidades.Contacto;
+
+public class TestContactos {
+
+	public static void main(String[] args) {
+		Contacto [] contactos= new Contacto [5];
+
+	}
+
+}
